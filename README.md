@@ -28,4 +28,4 @@ With Tree Shaking
 
 
 Without Tree Shaking
-<img width="1919" height="1071" alt="Screenshot 2026-05-06 122704" src="https://github.com/user-attachments/assets/a05d6f2f-a829-4811-bbdd-c1899e9d8701" />
+<img width="1832" height="1036" alt="Screenshot 2026-05-06 122814" src="https://github.com/user-attachments/assets/9fba279f-4052-4cc4-9292-f387822f0edf" />
